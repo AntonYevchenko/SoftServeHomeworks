@@ -25,7 +25,7 @@ namespace SoftServeHomeWorks
             }
             Console.WriteLine((double) accamulate / positiveCount);
 
-
+            //Second variant
 
             var accamulate2 = new List<int>();
 
