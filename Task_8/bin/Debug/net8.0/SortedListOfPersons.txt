@@ -1,0 +1,22 @@
+Person name is: Alice
+
+Teacher name is: Anna
+Teacher Anna subject is: English
+
+Developer name is: Bob
+Developer Bob level is: Junior
+
+Person name is: Bobby
+
+Developer name is: Eva
+Developer Eva level is: Senior
+
+Student name is: Garry
+Student`s group number is: Group3
+
+Teacher name is: John
+Teacher John subject is: Math
+
+Student name is: Lola
+Student`s group number is: Group1
+
