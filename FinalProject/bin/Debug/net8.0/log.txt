@@ -1,0 +1,4 @@
+2023-12-21 17:32:31.696 +02:00 [INF] Created AbsMeatProduct: Chorizo, Article: 17546
+2023-12-21 17:32:31.780 +02:00 [INF] Created AbsMeatProduct: Chorizo, Article: 17546
+2023-12-21 17:51:13.668 +02:00 [INF] Created AbsMeatProduct: Chorizo, Article: 17546
+2023-12-21 17:51:13.749 +02:00 [INF] Created AbsMeatProduct: Chorizo, Article: 17546
